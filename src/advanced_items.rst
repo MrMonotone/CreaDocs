@@ -17,19 +17,19 @@ It is even possible to :ref:`create new templates <creating-templates>`.
 Existing Templates
 ------------------
 
-Item
-Remna
-Scroll
-Bow
-Spear
-Wand
-Sword
-Shield
-ToolItem
-Tile
-StorageContainer
-NPC
-Monster
+* Item
+* Remna
+* Scroll
+* Bow
+* Spear
+* Wand
+* Sword
+* Shield
+* ToolItem
+* Tile
+* StorageContainer
+* NPC
+* Monster
 
 
 Building Onto Content

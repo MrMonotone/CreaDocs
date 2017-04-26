@@ -1,0 +1,17 @@
+Basic items should cover creating an Item. Making that item craftable. Using an existing sprite.
+
+Documentation split up into two categories:
+* Who is this Documentation for?
+    * Writing Documentation for people who do not know how to program is different then writing for those who do.
+* Guide
+    * Getting Started:
+        * Development environment setup.
+            * Install Python.
+            * Point them to Atom Documentation.
+            * 
+
+    * Understanding how Crea workds:
+        * ECS
+        * Content Entitys
+    
+* 

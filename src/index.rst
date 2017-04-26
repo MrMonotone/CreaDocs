@@ -18,6 +18,7 @@ Modding in Crea has been a focus since the beginning. All of the game's content 
 
 .. panel::
     Creating Content
+    * :ref:`Basic <mm-basic-items>`
     * :ref:`Basic Items <basic-items>`
     * :ref:`Basic Tiles <basic-tile>`
     * :ref:`Character Customizations <character-customizations>`
