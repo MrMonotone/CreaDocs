@@ -15,3 +15,7 @@ Documentation split up into two categories:
         * Content Entitys
     
 * 
+
+Classifications are dead code.
+Getting Started
+    * Learning Python

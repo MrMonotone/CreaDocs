@@ -14,6 +14,7 @@ Navigate to your Crea directory. Items are constructed of at least two files, an
 Examining an existing item
 __________________________
 Talk about how we will look at existing item stuff...
+
 Hide
 ----
 
@@ -38,7 +39,7 @@ are imports.
 
    from core.template.item import Item
 
-Import statements allow us to use existing code from a different location.
+Import statements allow us to reuse existing code from a different location.
 This line allows us to use the Item class from the item.py file located at core/template.
 
 .. code-block:: python

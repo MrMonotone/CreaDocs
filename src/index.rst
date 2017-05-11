@@ -10,6 +10,7 @@ Modding in Crea has been a focus since the beginning. All of the game's content 
 
 .. panel::
     Getting Started
+    * :ref:`Understanding the Documentation <mm-understanding-the-documentation>`
     * :ref:`Development Environment Setup <environment-setup>`
     * :ref:`Understanding Crea Files <understanding-crea>`
     * :ref:`Creating Mods <creating-mods>`
@@ -47,6 +48,10 @@ Modding in Crea has been a focus since the beginning. All of the game's content 
     * :ref:`Game Events <game-events>`
     * :ref:`Persisting Data <persisting-data>`
     * :ref:`World Generation (Coming Soon) <world-generation>`
+
+.. panel::
+    Additional Information
+    * :ref:`Unused Code <mm-unused-code>`
 
 .. raw:: html
 
